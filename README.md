@@ -1,4 +1,4 @@
-# GitHub Pages入門 https://shoichi1031da.github.io/pages/
+# GitHub Pages入門
 
 ## GitHubとは
 GitHubとは、ソフトウェア開発プロジェクトのための**ソースコード管理**サービスです。
