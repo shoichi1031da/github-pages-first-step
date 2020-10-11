@@ -17,7 +17,9 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 
 ## 2.リポジトリ作成
 **2.1 自分のリポジトリ（=ソースコードの貯蔵庫）を開く**
+
 <img width="340" alt="your repositories" src="https://user-images.githubusercontent.com/41470674/95670895-17796e00-0bcc-11eb-9049-df08ea1906e9.png">
+
 **2.2 NEWをクリックし、新たなリポジトリを作る**
 <img width="1326" alt="new" src="https://user-images.githubusercontent.com/41470674/95670987-d2a20700-0bcc-11eb-86a2-5fe17f2fe599.png">
 **2.3 リポジトリの名前（例 bmi）をつけて作成**
