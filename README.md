@@ -48,8 +48,32 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 **4.4 自動でサイトのURLが発行される**
 <img width="867" alt="url" src="https://user-images.githubusercontent.com/41470674/95671050-83a8a180-0bcd-11eb-8078-6edf2150b5f7.png">
 
+**これでサイトの公開は完了です！**
+サイトが反映されるには20秒ほど時間がかかります。
+404のエラーコードが返ってくる場合や、READMEがサイトに反映されてしまう（htmlが反映されない）場合は、5の手順に進みましょう。
+
 ## 5.htmlのファイル名を変更
+**5.1 htmlファイルを選択 
 <img width="1200" alt="select" src="https://user-images.githubusercontent.com/41470674/95671069-9de27f80-0bcd-11eb-8dcd-d6a4932d9e3d.png">
+
+**5.2 「Edit」をクリックし、htmlファイルの編集画面にいく
 <img width="1309" alt="edit" src="https://user-images.githubusercontent.com/41470674/95671076-ab980500-0bcd-11eb-95cf-6ec1e5c665dd.png">
+
+**5.3 ファイル名を「index.html」に変更（htmlのファイル名は基本indexにしておきましょう）**
 <img width="508" alt="name" src="https://user-images.githubusercontent.com/41470674/95671081-b783c700-0bcd-11eb-91bc-8c52712852d2.png">
+
+**5.4 「Commit changes」をクリックし、編集完了**
 <img width="605" alt="commit" src="https://user-images.githubusercontent.com/41470674/95671085-c10d2f00-0bcd-11eb-9daa-b1ca7ebed8eb.png">
+
+20秒ほど待って、サイトのURLにアクセスしてみましょう。
+htmlファイルが表示されれば成功です！
+
+## 補足
+Github内でもコーディングできますが、Commitしてからサイトに反映されるのに20秒ほど時間がかかります。
+JavaScript講座のようにVScodeでコーディングし、完成したものをGitHubにアップロードすることをお勧めします。
+（自分のパソコンに保存しブラウザで開けば、すぐ反映されるので、手直しがしやすいため）
+
+JavaScript講座で作ったhtmlファイルをどんどんアップロードしてましょう！
+サイトのURLはメモしておくか、READMEに記述しておきましょう！
+
+
