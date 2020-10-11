@@ -53,10 +53,10 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 404のエラーコードが返ってくる場合や、READMEがサイトに反映されてしまう（htmlが反映されない）場合は、5の手順に進みましょう。
 
 ## 5.htmlのファイル名を変更
-**5.1 htmlファイルを選択 
+**5.1 htmlファイルを選択**
 <img width="1200" alt="select" src="https://user-images.githubusercontent.com/41470674/95671069-9de27f80-0bcd-11eb-8dcd-d6a4932d9e3d.png">
 
-**5.2 「Edit」をクリックし、htmlファイルの編集画面にいく
+**5.2 「Edit」をクリックし、htmlファイルの編集画面にいく**
 <img width="1309" alt="edit" src="https://user-images.githubusercontent.com/41470674/95671076-ab980500-0bcd-11eb-95cf-6ec1e5c665dd.png">
 
 **5.3 ファイル名を「index.html」に変更（htmlのファイル名は基本indexにしておきましょう）**
