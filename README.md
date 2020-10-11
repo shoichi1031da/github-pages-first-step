@@ -13,7 +13,7 @@ webサイトとして公開すると、URLを知っている人なら誰でも�
 ## 1.GitHubのアカウント作成
 下記ページを参考に、GitHubのアカウントを作成しましょう。
 **ブラウザがchromeだと上手く作れない場合があるので、別ブラウザで作りましょう。**
-<a href="https://note.com/snmal_jp/n/n3ef510a8181e">
+<a href="https://note.com/snmal_jp/n/n3ef510a8181e">"https://note.com/snmal_jp/n/n3ef510a8181e"</a>
 
 ## 2.リポジトリ作成
 **2.1 自分のリポジトリ（=ソースコードの貯蔵庫）を開く**
