@@ -35,11 +35,11 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 **3.3 「Commit changes」をクリックし、アップロード完了**
 <img width="605" alt="commit" src="https://user-images.githubusercontent.com/41470674/95671023-33314400-0bcd-11eb-9b8a-a7d6d78d65e2.png">
 
-## 4.設定からGithubPagesとして公開
+## 4.設定からGitHubPagesとして公開
 **4.1 「Settings」をクリック**
 <img width="1191" alt="settings" src="https://user-images.githubusercontent.com/41470674/95671035-50fea900-0bcd-11eb-8ea3-e354fa6f150e.png">
 
-**4.2 「Github Pages」の「Source」をnoneから「main」に変更**
+**4.2 「GitHub Pages」の「Source」をnoneから「main」に変更**
 <img width="998" alt="main" src="https://user-images.githubusercontent.com/41470674/95671041-61168880-0bcd-11eb-905e-88862e646c32.png">
 
 **4.3 「Save」をクリック**
