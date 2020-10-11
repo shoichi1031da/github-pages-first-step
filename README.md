@@ -63,6 +63,7 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 <img width="508" alt="name" src="https://user-images.githubusercontent.com/41470674/95671081-b783c700-0bcd-11eb-91bc-8c52712852d2.png">
 
 **5.4 「Commit changes」をクリックし、編集完了**
+
 <img width="605" alt="commit" src="https://user-images.githubusercontent.com/41470674/95671085-c10d2f00-0bcd-11eb-9daa-b1ca7ebed8eb.png">
 
 20秒ほど待って、サイトのURLにアクセスしてみましょう。
@@ -73,7 +74,7 @@ Github内でもコーディングできますが、Commitしてからサイト�
 JavaScript講座のようにVScodeでコーディングし、完成したものをGitHubにアップロードすることをお勧めします。
 （自分のパソコンに保存しブラウザで開けば、すぐ反映されるので、手直しがしやすいため）
 
-JavaScript講座で作ったhtmlファイルをどんどんアップロードしてましょう！
+自分でhtmlファイルを公開すれば、自作サイトを作り放題！！
 サイトのURLはメモしておくか、READMEに記述しておきましょう！
 
 
