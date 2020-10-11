@@ -16,7 +16,7 @@ webサイトとして公開すると、URLを知っている人なら誰でも�
 https://note.com/snmal_jp/n/n3ef510a8181e
 ##### 2.リポジトリ作成
 <img width="340" alt="your repositories" src="https://user-images.githubusercontent.com/41470674/95670895-17796e00-0bcc-11eb-9049-df08ea1906e9.png">
-
+![Uploading リポジトリ作成.png…]()
 ##### 3.ファイルのアップロード
 ##### 4.READMEの作成
 ##### 5.設定からGithubPagesとして公開
