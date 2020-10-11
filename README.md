@@ -77,4 +77,4 @@ JavaScript講座のようにVScodeでコーディングし、完成したもの�
 自分でhtmlファイルを公開すれば、自作サイトを作り放題！！
 サイトのURLはメモしておくか、READMEに記述しておきましょう！
 
-
+<img width="1116" alt="readme" src="https://user-images.githubusercontent.com/41470674/95671487-c28d2600-0bd2-11eb-8cfd-046d281b59e4.png">
