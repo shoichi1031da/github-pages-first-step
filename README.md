@@ -15,7 +15,7 @@ webサイトとして公開すると、URLを知っている人なら誰でも�
 ブラウザがchromeだと上手く作れない場合があるので、別ブラウザで作りましょう。
 https://note.com/snmal_jp/n/n3ef510a8181e
 ##### 2.リポジトリ作成
-https://github.com/shoichi1031da/pages/issues/1#issue-718761077
+<img width="340" alt="your repositories" src="https://user-images.githubusercontent.com/41470674/95670895-17796e00-0bcc-11eb-9049-df08ea1906e9.png">
 
 ##### 3.ファイルのアップロード
 ##### 4.READMEの作成
