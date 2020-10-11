@@ -3,7 +3,8 @@
 ## GitHubとは
 GitHubとは、ソフトウェア開発プロジェクトのための**ソースコード管理**サービスです。
 公開されているソースコードの閲覧や簡単なバグ管理機能、SNSの機能を備えており、開発者にとって無くてはならないサービスです。
-<a href="https://techacademy.jp/magazine/6235">引用サイト</a>
+
+<a href="https://techacademy.jp/magazine/6235">＜引用サイト＞</a>
 
 ## GitHub Pagesとは
 GitHubに保存したソースコードを実行し、**静的webサイトを公開できる無料サービス**です。
