@@ -36,13 +36,10 @@ https://note.com/snmal_jp/n/n3ef510a8181e
 ## 4.設定からGithubPagesとして公開
 **4.1 「Settings」をクリック**
 <img width="1191" alt="settings" src="https://user-images.githubusercontent.com/41470674/95671035-50fea900-0bcd-11eb-8ea3-e354fa6f150e.png">
-
 **4.2 「Github Pages」の「Source」をnoneから「main」に変更**
 <img width="998" alt="main" src="https://user-images.githubusercontent.com/41470674/95671041-61168880-0bcd-11eb-905e-88862e646c32.png">
-
 **4.3 「Save」をクリック**
 <img width="900" alt="save" src="https://user-images.githubusercontent.com/41470674/95671044-6e337780-0bcd-11eb-806b-30766e092c2d.png">
-
 **4.4 自動でサイトのURLが発行される**
 <img width="867" alt="url" src="https://user-images.githubusercontent.com/41470674/95671050-83a8a180-0bcd-11eb-8078-6edf2150b5f7.png">
 
